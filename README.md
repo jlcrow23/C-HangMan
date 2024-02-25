@@ -3,33 +3,34 @@ Hangman game Built with C++
 
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+A fun hangman game that can be played and changed to look how is desired.
 
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
+For this I used:
+Visual Studio
+Visual Studio Code
+Extensions needed for both
 
-{Describe your purpose for writing this software.}
+My purpose for writing this software was to learn how to use C++ and make a fun game.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/aZ2-eVwNCC4)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The tools used for this program were YoutTube, Visual Studio, W3Schools.com, and Microsoft.com.
 
-{Describe the programming language that you used and any libraries.}
+I used C++ for this program whil using the various libraries including iostream, vector, ctime, fstream, string, and cstdlib.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/cpp/windows/walkthrough-creating-a-standard-cpp-program-cpp?view=msvc-170)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/hangman-game-in-cpp/)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Need to learn how to make sure the letters are capitalized without having capslock on.
+- Would like to add more words.
+- Understanding C++ just a little bit better.
